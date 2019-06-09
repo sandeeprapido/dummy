@@ -5,7 +5,6 @@
       "item": "soap",
       "price": "1",
       "invoice_no": 1,
-      "quantity": 2,
       "total_amount": 2
     }
 }
