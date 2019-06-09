@@ -1,7 +1,7 @@
 {
   "sales": [
-    { "id": 1, "item":"soap", "price":"1", "invoice_no":1, quantity:2, total_amount:2 },
-    { "id": 2, "item":"soap", "price":"1", "invoice_no":2, quantity:3, total_amount:3 },
-    { "id": 3, "item":"soap", "price":"1", "invoice_no":3, quantity:2, total_amount:3}
+    { "id": 1, "item":"soap", "price":"1", "invoice_no":1, "quantity":2, "total_amount":2 },
+    { "id": 2, "item":"soap", "price":"1", "invoice_no":2, "quantity":3, "total_amount":3 },
+    { "id": 3, "item":"soap", "price":"1", "invoice_no":3, "quantity":2, "total_amount":3}
   ]
 }
